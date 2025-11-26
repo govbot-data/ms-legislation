@@ -1,4 +1,4 @@
-# 🏛️ ms legislation file tree
+# 🏛️ Mississippi legislation file tree
 
 Download a copy of your states legislation.
 
