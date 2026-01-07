@@ -1,4 +1,94 @@
 {
+  "SB2006": {
+    "session_id": "20251E",
+    "name": "2025 First Extraordinary Session",
+    "date_folder": "2025-2025"
+  },
+  "SB2013": {
+    "session_id": "20251E",
+    "name": "2025 First Extraordinary Session",
+    "date_folder": "2025-2025"
+  },
+  "SB2007": {
+    "session_id": "20251E",
+    "name": "2025 First Extraordinary Session",
+    "date_folder": "2025-2025"
+  },
+  "SB2001": {
+    "session_id": "20251E",
+    "name": "2025 First Extraordinary Session",
+    "date_folder": "2025-2025"
+  },
+  "HB1": {
+    "session_id": "20251E",
+    "name": "2025 First Extraordinary Session",
+    "date_folder": "2025-2025"
+  },
+  "SB2015": {
+    "session_id": "20251E",
+    "name": "2025 First Extraordinary Session",
+    "date_folder": "2025-2025"
+  },
+  "SB2011": {
+    "session_id": "20251E",
+    "name": "2025 First Extraordinary Session",
+    "date_folder": "2025-2025"
+  },
+  "SB2003": {
+    "session_id": "20251E",
+    "name": "2025 First Extraordinary Session",
+    "date_folder": "2025-2025"
+  },
+  "SB2002": {
+    "session_id": "20251E",
+    "name": "2025 First Extraordinary Session",
+    "date_folder": "2025-2025"
+  },
+  "SB2014": {
+    "session_id": "20251E",
+    "name": "2025 First Extraordinary Session",
+    "date_folder": "2025-2025"
+  },
+  "SB2004": {
+    "session_id": "20251E",
+    "name": "2025 First Extraordinary Session",
+    "date_folder": "2025-2025"
+  },
+  "SB2012": {
+    "session_id": "20251E",
+    "name": "2025 First Extraordinary Session",
+    "date_folder": "2025-2025"
+  },
+  "SB2005": {
+    "session_id": "20251E",
+    "name": "2025 First Extraordinary Session",
+    "date_folder": "2025-2025"
+  },
+  "SB2010": {
+    "session_id": "20251E",
+    "name": "2025 First Extraordinary Session",
+    "date_folder": "2025-2025"
+  },
+  "SC502": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2025-2025"
+  },
+  "SB2009": {
+    "session_id": "20251E",
+    "name": "2025 First Extraordinary Session",
+    "date_folder": "2025-2025"
+  },
+  "SB2008": {
+    "session_id": "20251E",
+    "name": "2025 First Extraordinary Session",
+    "date_folder": "2025-2025"
+  },
+  "SC501": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2025-2025"
+  },
   "HB42": {
     "session_id": "20251E",
     "name": "2025 First Extraordinary Session",
@@ -39,16 +129,6 @@
     "name": "2025 First Extraordinary Session",
     "date_folder": "2025-2025"
   },
-  "SB2006": {
-    "session_id": "20251E",
-    "name": "2025 First Extraordinary Session",
-    "date_folder": "2025-2025"
-  },
-  "SB2013": {
-    "session_id": "20251E",
-    "name": "2025 First Extraordinary Session",
-    "date_folder": "2025-2025"
-  },
   "SB2027": {
     "session_id": "20251E",
     "name": "2025 First Extraordinary Session",
@@ -60,11 +140,6 @@
     "date_folder": "2025-2025"
   },
   "SB2048": {
-    "session_id": "20251E",
-    "name": "2025 First Extraordinary Session",
-    "date_folder": "2025-2025"
-  },
-  "SB2007": {
     "session_id": "20251E",
     "name": "2025 First Extraordinary Session",
     "date_folder": "2025-2025"
@@ -99,16 +174,6 @@
     "name": "2025 First Extraordinary Session",
     "date_folder": "2025-2025"
   },
-  "SB2001": {
-    "session_id": "20251E",
-    "name": "2025 First Extraordinary Session",
-    "date_folder": "2025-2025"
-  },
-  "HB1": {
-    "session_id": "20251E",
-    "name": "2025 First Extraordinary Session",
-    "date_folder": "2025-2025"
-  },
   "HB10": {
     "session_id": "20251E",
     "name": "2025 First Extraordinary Session",
@@ -120,11 +185,6 @@
     "date_folder": "2025-2025"
   },
   "SB2028": {
-    "session_id": "20251E",
-    "name": "2025 First Extraordinary Session",
-    "date_folder": "2025-2025"
-  },
-  "SB2015": {
     "session_id": "20251E",
     "name": "2025 First Extraordinary Session",
     "date_folder": "2025-2025"
@@ -269,11 +329,6 @@
     "name": "2025 First Extraordinary Session",
     "date_folder": "2025-2025"
   },
-  "SB2011": {
-    "session_id": "20251E",
-    "name": "2025 First Extraordinary Session",
-    "date_folder": "2025-2025"
-  },
   "HR1": {
     "session_id": "20251E",
     "name": "2025 First Extraordinary Session",
@@ -285,11 +340,6 @@
     "date_folder": "2025-2025"
   },
   "HB22": {
-    "session_id": "20251E",
-    "name": "2025 First Extraordinary Session",
-    "date_folder": "2025-2025"
-  },
-  "SB2003": {
     "session_id": "20251E",
     "name": "2025 First Extraordinary Session",
     "date_folder": "2025-2025"
@@ -314,27 +364,12 @@
     "name": "2025 First Extraordinary Session",
     "date_folder": "2025-2025"
   },
-  "SB2002": {
-    "session_id": "20251E",
-    "name": "2025 First Extraordinary Session",
-    "date_folder": "2025-2025"
-  },
   "SB2036": {
     "session_id": "20251E",
     "name": "2025 First Extraordinary Session",
     "date_folder": "2025-2025"
   },
-  "SB2014": {
-    "session_id": "20251E",
-    "name": "2025 First Extraordinary Session",
-    "date_folder": "2025-2025"
-  },
   "HB13": {
-    "session_id": "20251E",
-    "name": "2025 First Extraordinary Session",
-    "date_folder": "2025-2025"
-  },
-  "SB2004": {
     "session_id": "20251E",
     "name": "2025 First Extraordinary Session",
     "date_folder": "2025-2025"
@@ -354,22 +389,12 @@
     "name": "2025 First Extraordinary Session",
     "date_folder": "2025-2025"
   },
-  "SB2012": {
-    "session_id": "20251E",
-    "name": "2025 First Extraordinary Session",
-    "date_folder": "2025-2025"
-  },
   "SB2041": {
     "session_id": "20251E",
     "name": "2025 First Extraordinary Session",
     "date_folder": "2025-2025"
   },
   "SB2046": {
-    "session_id": "20251E",
-    "name": "2025 First Extraordinary Session",
-    "date_folder": "2025-2025"
-  },
-  "SB2005": {
     "session_id": "20251E",
     "name": "2025 First Extraordinary Session",
     "date_folder": "2025-2025"
@@ -405,11 +430,6 @@
     "date_folder": "2025-2025"
   },
   "HB49": {
-    "session_id": "20251E",
-    "name": "2025 First Extraordinary Session",
-    "date_folder": "2025-2025"
-  },
-  "SB2010": {
     "session_id": "20251E",
     "name": "2025 First Extraordinary Session",
     "date_folder": "2025-2025"
@@ -469,11 +489,6 @@
     "name": "2025 First Extraordinary Session",
     "date_folder": "2025-2025"
   },
-  "SB2009": {
-    "session_id": "20251E",
-    "name": "2025 First Extraordinary Session",
-    "date_folder": "2025-2025"
-  },
   "HB34": {
     "session_id": "20251E",
     "name": "2025 First Extraordinary Session",
@@ -495,11 +510,6 @@
     "date_folder": "2025-2025"
   },
   "HB31": {
-    "session_id": "20251E",
-    "name": "2025 First Extraordinary Session",
-    "date_folder": "2025-2025"
-  },
-  "SB2008": {
     "session_id": "20251E",
     "name": "2025 First Extraordinary Session",
     "date_folder": "2025-2025"
