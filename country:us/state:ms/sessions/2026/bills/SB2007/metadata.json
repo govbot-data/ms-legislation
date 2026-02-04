@@ -24,6 +24,18 @@
       "_processing": {
         "log_file_created": "2026-01-07T12:54:20Z"
       }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T13:09:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -42,6 +54,21 @@
       "note": "Current version",
       "links": [
         {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2001-2099/SB2007CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2007CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2001-2099/SB2007IN.htm",
           "media_type": "text/html"
         },
@@ -58,7 +85,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2007IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2007CS.pdf",
       "note": ""
     },
     {
@@ -66,7 +93,7 @@
       "note": ""
     },
     {
-      "url": "http://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2007.xml",
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2007.xml",
       "note": ""
     }
   ],
@@ -80,6 +107,6 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-07T12:54:20Z"
+    "logs_latest_update": "2026-02-04T13:09:12Z"
   }
 }

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "DR - TSDP: PP To UC",
+    "date": "2026-01-30T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB2598"
+}

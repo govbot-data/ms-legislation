@@ -24,6 +24,16 @@
       "_processing": {
         "log_file_created": "2026-01-07T12:54:20Z"
       }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T13:09:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,7 +68,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2008IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2008IN.pdf",
       "note": ""
     },
     {
@@ -66,7 +76,7 @@
       "note": ""
     },
     {
-      "url": "http://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2008.xml",
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2008.xml",
       "note": ""
     }
   ],
@@ -80,6 +90,6 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-07T12:54:20Z"
+    "logs_latest_update": "2026-02-04T13:09:12Z"
   }
 }

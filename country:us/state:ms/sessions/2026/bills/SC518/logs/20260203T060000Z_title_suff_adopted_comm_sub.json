@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Title Suff Adopted Comm Sub",
+    "date": "2026-02-03T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SC518"
+}

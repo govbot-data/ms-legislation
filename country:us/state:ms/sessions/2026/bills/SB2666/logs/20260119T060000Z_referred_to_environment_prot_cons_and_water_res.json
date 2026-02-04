@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Referred To Environment Prot, Cons and Water Res",
+    "date": "2026-01-19T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB2666"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "DR - TSDPCS: MU To JB",
+    "date": "2026-01-30T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB2729"
+}

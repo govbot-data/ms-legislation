@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Referred To Rules",
+    "date": "2026-01-29T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SR28"
+}

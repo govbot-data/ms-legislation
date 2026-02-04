@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Title Suff Do Pass Comm Sub",
+    "date": "2026-02-02T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB1609"
+}
