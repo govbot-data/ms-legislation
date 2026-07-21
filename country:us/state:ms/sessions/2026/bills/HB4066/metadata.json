@@ -170,6 +170,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:18Z"
+    "logs_latest_update": "2026-07-21T18:55:18Z",
+    "text_extraction_latest_update": "2026-07-21T22:19:38.720693Z"
   }
 }
