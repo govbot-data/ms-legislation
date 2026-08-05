@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Referred To Rules",
+    "occurred_at": "2026-07-16T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "20261E",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://billstatus.ls.state.ms.us/documents/20261E/pdf/HR/HR0002PS.pdf",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/20261E/pdf/House_authors/Bell_(65th).xml",
+        "note": ""
+      },
+      {
+        "url": "https://billstatus.ls.state.ms.us/20261E/pdf/history/HR/HR0002.xml",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR2"
+}
